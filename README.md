@@ -1,5 +1,12 @@
-zmays SNP calling project
+# zmays SNP calling project
 Project started 2013-01-03
-Sample expected from sequencing core 2013-01-10
-Maize reference genome version: refgen3, downloaded 2013-01-04 from
+## Samples
+Samples downloaded 2013-01-11 into `data/seqs`:
+data/seqs/zmaysA_R1.fastq
+data/seqs/zmaysA_R2.fastq
+data/seqs/zmaysB_R1.fastq
+data/seqs/zmaysB_R2.fastq
+data/seqs/zmaysC_R1.fastq
+data/seqs/zmaysC_R2.fast
+We downloaded the B72 reference genome (refgen3) on 2013-01-04 from
 http://maizegdb.org into `/share/data/refgen3/`.
